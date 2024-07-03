@@ -1,0 +1,27 @@
+{
+  "name": "bybitapi",
+  "version": "1.1.1",
+  "description": "Bybit API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "axios": "^1.7.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jyydev/bybitapi.git"
+  },
+  "keywords": [
+    "bybit",
+    "api",
+    "exchange",
+    "crypto",
+    "currency",
+    "cryptocurrency",
+    "coin"
+  ],
+  "author": "",
+  "license": "ISC"
+}
