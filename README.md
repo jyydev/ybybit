@@ -1,11 +1,11 @@
 # About
 
-[bybitapi](https://www.npmjs.com/package/bybitapi) is a non-official, simple Node.js & JavaScript SDK for Bybit REST API.
+[ybybit](https://www.npmjs.com/package/ybybit) is a non-official, simple Node.js & JavaScript SDK for Bybit REST API.
 
 ## Usage example 1 (api class)
 
 ```
-const api = require('bybitapi')
+const api = require('ybybit')
 let acc = new api(<apiKey>, <secret>);
 
 async function test(){
@@ -18,7 +18,7 @@ test()
 ## Usage example 2 (call function)
 
 ```
-const {call} = require('bybitapi')
+const {call} = require('ybybit')
 let apiKey = <apiKey>;
 let secret = <secret>;
 
@@ -34,7 +34,7 @@ test()
 
 ```
 
-npm i bybitapi
+npm i ybybit
 
 ```
 
